@@ -1,6 +1,8 @@
 
+//PACOTE
 package mapa;
 
+//CLASSE Secretaria herdando da CLASSE Funcionário.
 public class Secretaria extends Funcionario{
 
     @Override

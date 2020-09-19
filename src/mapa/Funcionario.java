@@ -1,7 +1,9 @@
 
+//PACOTE
 package mapa;
 
-public abstract class Funcionario extends Pessoa {//CLASSE ABSTRATA
+//CLASSE ABSTRATA Funcionário herdando da CLASSE Cliente.
+public abstract class Funcionario extends Pessoa {
     
     //ATRIBUTOS
     protected double salario;

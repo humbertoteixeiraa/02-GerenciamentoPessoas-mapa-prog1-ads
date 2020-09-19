@@ -1,6 +1,9 @@
 
+//PACOTE
 package mapa;
 
+
+//CLASSE Vendedor herdando da CLASSE Funcionário.
 public class Vendedor extends Funcionario {
     
     //ATRIBUTOS

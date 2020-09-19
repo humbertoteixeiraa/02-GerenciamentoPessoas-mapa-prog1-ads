@@ -1,6 +1,9 @@
 
+//PACOTE
 package mapa;
 
+
+//CLASSE PRINCIPAL
 public class Principal {
 
     public static void main(String[] args) {
@@ -20,7 +23,7 @@ public class Principal {
         Cliente c3 = new Cliente();
         Cliente c4 = new Cliente();
         
-        //Atribuindo os valores aos OBJETOS.
+        //Atribuindo valores aos OBJETOS.
         p.setNome("ASDRUBAL LEÔCIO CORREA");//Nome do Presidente LEÔNCIO.
         p.setDocumento("000.000.000-00");//Documento de LEÔNCIO.
         p.setSalario(16400);//Salário mensal de LEÔNCIO.
@@ -55,7 +58,6 @@ public class Principal {
         c4.setSenha("teste");//Senha de LUCAS.
         
         //Exibindo os dados.
-        
         System.out.println("------------------------------------------");
         System.out.println("- ATIVIDADE: MAPA                        |");
         System.out.println("- DISCIPLINA: PROGRAMAÇÃO I              |");

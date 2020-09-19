@@ -1,6 +1,8 @@
 
+//PACOTE
 package mapa;
 
+//CLASSE Presidente herdando da CLASSE Funcionário.
 public class Presidente extends Funcionario {
 
     @Override

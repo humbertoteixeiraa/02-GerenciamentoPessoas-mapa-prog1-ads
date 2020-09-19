@@ -1,7 +1,9 @@
 
+//PACOTE
 package mapa;
 
-public abstract class Pessoa {//CLASSE ABSTRATA
+//CLASSE ABSTRATA
+public abstract class Pessoa {
     
     //ATRIBUTOS
     protected String nome;
