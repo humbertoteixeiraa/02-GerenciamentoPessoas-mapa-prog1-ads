@@ -1,6 +1,6 @@
 
 //PACOTE
-package mapa;
+package programa;
 
 //CLASSE ABSTRATA Funcionário herdando da CLASSE Cliente.
 public abstract class Funcionario extends Pessoa {

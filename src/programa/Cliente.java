@@ -1,6 +1,6 @@
 
 //PACOTE
-package mapa;
+package programa;
 
 //CLASSE Clente herdando da CLASSE Pessoa.
 public class Cliente extends Pessoa {

@@ -1,6 +1,6 @@
 
 //PACOTE
-package mapa;
+package programa;
 
 //CLASSE Secretaria herdando da CLASSE Funcionário.
 public class Secretaria extends Funcionario{

@@ -1,6 +1,6 @@
 
 //PACOTE
-package mapa;
+package programa;
 
 //CLASSE ABSTRATA
 public abstract class Pessoa {

@@ -1,6 +1,6 @@
 
 //PACOTE
-package mapa;
+package programa;
 
 
 //CLASSE Vendedor herdando da CLASSE Funcionário.

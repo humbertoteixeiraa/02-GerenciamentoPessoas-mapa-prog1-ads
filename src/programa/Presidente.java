@@ -1,6 +1,6 @@
 
 //PACOTE
-package mapa;
+package programa;
 
 //CLASSE Presidente herdando da CLASSE Funcionário.
 public class Presidente extends Funcionario {
