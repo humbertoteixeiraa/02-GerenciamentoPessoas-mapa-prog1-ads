@@ -58,17 +58,6 @@ public class Principal {
         c4.setSenha("teste");//Senha de LUCAS.
         
         //Exibindo os dados.
-        System.out.println("------------------------------------------");
-        System.out.println("- ATIVIDADE: MAPA                        |");
-        System.out.println("- DISCIPLINA: PROGRAMAÇÃO I              |");
-        System.out.println("- ALUNO: JOÃO HUMBERTO PEREIRA TEIXEIRA  |");
-        System.out.println("- R.A: 1881171-5                         |");
-        System.out.println("- POLO: ITAPIPOCA-CE                     |");
-        System.out.println("------------------------------------------");
-        System.out.println("");
-        System.out.println("");
-        System.out.println("");
-        System.out.println("");
         System.out.println("-------- ((( DADOS DOS FUNCIONÁRIOS ))) ----------");
         System.out.println("");
        
